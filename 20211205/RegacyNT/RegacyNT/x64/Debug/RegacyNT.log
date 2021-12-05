@@ -1,0 +1,8 @@
+﻿  Building 'RegacyNT' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  DriverMain.c
+  RegacyNT.vcxproj -> C:\Users\USER\source\repos\RegacyNT\x64\Debug\RegacyNT.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\USER\source\repos\RegacyNT\x64\Debug\RegacyNT.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
