@@ -1,0 +1,8 @@
+﻿  Building 'FirstHacking' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  DriverMain.c
+  FirstHacking.vcxproj -> C:\Users\USER\source\repos\FirstHacking\x64\Release\FirstHacking.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\USER\source\repos\FirstHacking\x64\Release\FirstHacking.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
